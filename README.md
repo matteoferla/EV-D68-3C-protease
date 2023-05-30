@@ -36,8 +36,9 @@ Aligning to first.
 ## To do
 
 * [] Make reference
-* [] Extact fragments
-* [] Assign library* 
+* [] Optional: determine RMSD of polymers in each structure
+* [] Extract fragments
+* [] Assign library — metadata has SMILES! :tada
 * [] Optional: Fragment native substrate
 * [] Fragmenstein score — not great, but not terrible, ideally proper FEP
 * [] Fragmenstein merger, analogue search and place
