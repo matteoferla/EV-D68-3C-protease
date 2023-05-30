@@ -13,6 +13,7 @@ The N-terminal Met of Chain A sits in the active site of Chain B (PDB:8CNX)
 ### Native substrate
 Cannot find a conservation logo, but it's EALFQ↓GPPQF (2C↓3A) and TAKVQ↓GPGFD (3B↓3C)
 
+From paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624371/
 ![figure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624371/bin/zjv9990974800002.jpg)
 
 https://www.rcsb.org/structure/2B0F
@@ -21,6 +22,9 @@ but a covalent bond to the catalytic Cys. The latter is a glycine.
 
 [rupintrivir](https://en.wikipedia.org/wiki/Rupintrivir) bound to CVA16 3C https://www.ebi.ac.uk/pdbe/entry/pdb/3sji
 residue name: AG7
+The glutamine terminal amide is replaced by a 2-pyrrolidone.
+The phenylalanine benzene has a para-fluoro group.
+The rest is backbone interactions basically.
 
 ![prior](images/prior.png)
 
@@ -31,4 +35,13 @@ Aligning to first.
 
 ## To do
 
-* Optional: Extract peptidomimetics and nativise them
+* [] Make reference
+* [] Extact fragments
+* [] Assign library* 
+* [] Optional: Fragment native substrate
+* [] Fragmenstein score — not great, but not terrible, ideally proper FEP
+* [] Fragmenstein merger, analogue search and place
+* [] Fragment network elaborations
+* [] PLIP annotate interactions
+* [] CoPriNet price —I have not installed it yet...
+* [] Forcefully organise fragment picking meeting
