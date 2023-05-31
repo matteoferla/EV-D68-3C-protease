@@ -49,10 +49,10 @@ This leaves with these 19 out of 104:
 * [x] Extract fragments
 * [] Assign library — metadata has SMILES! :tada
 * [] Optional: Fragment native substrate
-* [] Select bio relevant fragments
-* [] Fragmenstein score — not great, but not terrible, ideally proper FEP
-* [] Fragmenstein merger, analogue search and place
+* [x] Select bio relevant fragments
+* [] ~Fragmenstein score — not great, but not terrible, ideally proper FEP~ — circumvented by bio relevance
+* [] Fragmenstein merger, analogue search, place and PLIP annotate interactions
 * [] Fragment network elaborations
-* [] PLIP annotate interactions
+* [] Fragmenstein synthon merger, analogue search, place and PLIP annotate interactions
 * [] CoPriNet price —I have not installed it yet...
 * [] Forcefully organise fragment picking meeting
