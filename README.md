@@ -33,13 +33,23 @@ The rest is backbone interactions basically.
 No reference file provided in Fragalysis... :shrug:
 Aligning to first.
 
+## Fragment distribution
+
+As I know where the native structure is, I can filtered out the crap.
+![distro](images/hits-native.png)
+
+This leaves with these 19 out of 104:
+
+![filtered](images/filtered_hits.png)
+
 ## To do
 
-* [] Make reference
+* [x] Make reference
 * [] Optional: determine RMSD of polymers in each structure
-* [] Extract fragments
+* [x] Extract fragments
 * [] Assign library — metadata has SMILES! :tada
 * [] Optional: Fragment native substrate
+* [] Select bio relevant fragments
 * [] Fragmenstein score — not great, but not terrible, ideally proper FEP
 * [] Fragmenstein merger, analogue search and place
 * [] Fragment network elaborations
