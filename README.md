@@ -33,14 +33,22 @@ The rest is backbone interactions basically.
 No reference file provided in Fragalysis... :shrug:
 Aligning to first.
 
-## Fragment distribution
+## Fragment Preparation
 
-As I know where the native structure is, I can filtered out the crap.
+* [Extraction notebook](02_hit-prep/frag-extraction.ipynb)
+* [hit theft](02_hit-prep/hit-theft.ipynb)
+* [Filter and fragment](02_hit-prep/filter_n_frag.ipynb)
+
+As I know where the native structure is, I can filter out the crap.
 ![distro](images/hits-native.png)
 
-This leaves with these 19 out of 104:
+This leaves with these 19 out of 104.
+Stealing ligands from the PDB gives another 25 — see [filtered](images/filtered_hits.png).
 
-![filtered](images/filtered_hits.png)
+Fragmenting these gives 992.
+
+Mergers: https://michelanglo.sgc.ox.ac.uk/data/5066835a-a2df-4723-ad92-5adfa622cd74
+
 
 ## To do
 
