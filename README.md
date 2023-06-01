@@ -47,6 +47,10 @@ Stealing ligands from the PDB gives another 25 — see [filtered](images/filtere
 
 Fragmenting these gives 992.
 
+## Merging
+
+* [Fragmenstein merging](03_merge-fragmenstein/fragpipe.ipynb)
+
 Mergers: https://michelanglo.sgc.ox.ac.uk/data/5066835a-a2df-4723-ad92-5adfa622cd74
 
 
