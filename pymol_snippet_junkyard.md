@@ -28,3 +28,5 @@ zoom resn AG7
 ray 4266, 3100, async=1
 ```
 
+show sticks,  resi 22+40+147+161
+

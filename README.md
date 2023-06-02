@@ -45,7 +45,16 @@ As I know where the native structure is, I can filter out the crap.
 This leaves with these 19 out of 104.
 Stealing ligands from the PDB gives another 25 — see [filtered](images/filtered_hits.png).
 
-Fragmenting these gives 992.
+Fragmenting these gives 992. Ouch.
+
+## Noteworthy
+
+Of the hits near the catalytic triad, those close to H161 are interesting.
+This is because the native substrate has a conserved glutamine at this position (P-1).
+
+![H161_friends](images/H161_friends.png)
+
+Of these, x1604 has a cateshol that interacts with both protonated cys and H
 
 ## Merging
 
