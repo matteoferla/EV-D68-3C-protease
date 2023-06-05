@@ -54,7 +54,7 @@ This is because the native substrate has a conserved glutamine at this position 
 
 ![H161_friends](images/H161_friends.png)
 
-Of these, x1604 has a cateshol that interacts with both protonated cys and H
+Of these, x1604 has a bromophenol that interacts with both protonated cys and H
 
 ## Merging
 
