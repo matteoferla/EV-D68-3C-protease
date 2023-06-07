@@ -96,6 +96,11 @@ were trimmed on unnecessary fused rings as these do not decompose (see [x1604 no
 These were used along with the rest of the substrate pocket in the fragment network merger,
 with a filter against pointless synthons from crystal contacts.
 
+Unfortunately, the only possible followups were those using benzenes and another hit.
+Without benzenes, no followups from vendors were possible.
+
+https://michelanglo.sgc.ox.ac.uk/data/e934e6d1-61e4-4fe8-b57f-166bd5e37c31
+
 ## To do
 
 * [x] Make reference
@@ -106,7 +111,7 @@ with a filter against pointless synthons from crystal contacts.
 * [x] Select bio relevant fragments
 * [] ~Fragmenstein score — not great, but not terrible, ideally proper FEP~ — circumvented by bio relevance
 * [x] Fragmenstein merger, analogue search, place and PLIP annotate interactions
-* [] Fragment network elaborations
-* [] Fragmenstein synthon merger, analogue search, place and PLIP annotate interactions
-* [] CoPriNet price —I have not installed it yet...
+* [x] Fragment network elaborations
+* [] ~Fragmenstein synthon merger, analogue search, place and PLIP annotate interactions~
+* [] CoPriNet price
 * [] Forcefully organise fragment picking meeting
