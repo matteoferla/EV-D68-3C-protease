@@ -16,6 +16,7 @@ There is a peptidic amide oxygen nearby and the triad acid E77, but no hit inter
 ![acid-base-cys.png](acid-base-cys.png)
 
 The T132 is popular, but simply loading PDB:2B0F in PyMOL and doing the mutagenesis wizard shows that
-this is out of reach to either threonine or glutamine (as is K61 as expected).
-
+this is out of reach to either threonine or glutamate (as is K61 as expected).
 I have not checked its conservation.
+
+

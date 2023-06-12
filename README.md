@@ -26,7 +26,19 @@ The glutamine terminal amide is replaced by a 2-pyrrolidone.
 The phenylalanine benzene has a para-fluoro group.
 The rest is backbone interactions basically.
 
+The covalents let me make a oxyanion model:
+
+![oxyanion](images/oxyanion.png)
+
 ![prior](images/prior.png)
+
+## Triad
+
+* Catalytic cysteine: C146
+* Base: H40
+* Acid E71
+* Oxyanion hole: backbone amide nitrogens of G144 and G145
+* P-1 residue glutamine (conserved) terminal hole: H160 (HIE, locked by Y137) and amide oxygen of T141
 
 ## Reference structure
 
