@@ -24,20 +24,22 @@ but a covalent bond to the catalytic Cys. The latter is a glycine.
 residue name: AG7
 The glutamine terminal amide is replaced by a 2-pyrrolidone.
 The phenylalanine benzene has a para-fluoro group.
-The rest is backbone interactions basically.
-
-The covalents let me make a oxyanion model:
-
-![oxyanion](images/oxyanion.png)
+The rest is backbone interactions basically:
 
 ![prior](images/prior.png)
+
+### Oxyanion transistion state
+
+The covalents let me make an oxyanion model:
+
+![oxyanion](images/oxyanion.png)
 
 ## Triad
 
 * Catalytic cysteine: C146
 * Base: H40
 * Acid E71
-* Oxyanion hole: backbone amide nitrogens of G144 and G145
+* Oxyanion hole: backbone amide nitrogens of G145 and Q146
 * P-1 residue glutamine (conserved) terminal hole: H160 (HIE, locked by Y137) and amide oxygen of T141
 
 ## Reference structure
@@ -60,6 +62,12 @@ Stealing ligands from the PDB gives another 25 — see [filtered](images/filtere
 Fragmenting these gives 992. Ouch.
 
 ## Noteworthy
+
+> TL;DR: x1594, x1604, x0771 interact with bromide and amide pocket.
+> x0147, x1537 bind the amide pocket like x1594, via a triazole.
+> The amide pocket is also occupied by x1498, x0980. 
+> x1083, x1305 and x1247 weakly fill the P-2 pocket.
+> HOH164 is a tightly bound water that fills the oxyanion hole —no hit displaces it.
 
 Of the hits near the catalytic triad, those close to H161 are interesting.
 This is because the native substrate has a conserved glutamine at this position (P-1).
