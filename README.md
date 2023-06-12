@@ -68,6 +68,7 @@ Fragmenting these gives 992. Ouch.
 > The amide pocket is also occupied by x1498, x0980. 
 > x1083, x1305 and x1247 weakly fill the P-2 pocket.
 > HOH164 is a tightly bound water that fills the oxyanion hole —no hit displaces it.
+> In the amide pocket there's a very trapped water, HOH83, that no hit displaces.
 
 Of the hits near the catalytic triad, those close to H161 are interesting.
 This is because the native substrate has a conserved glutamine at this position (P-1).
@@ -86,6 +87,10 @@ One such hit is x1594. Here are three purchasable version of the group that inte
 For more see [x1594 notes](x1594.md). However, a major drawback is it is not an overly elaboratable set.
 
 In terms of the P-2 site, the hits are on the 2 hydrogen bond mark including water network.
+
+## Results
+
+Initial results are in [initial_results notes](initial_results.md)
 
 ## To do
 
