@@ -6,6 +6,8 @@ Family: Picornaviridae
 Targeting details: https://www.notion.so/asapdiscovery/Targeting-Opportunity-Enterovirus-3C-protease-A71-89ebfbb23d4d47f6848ecabc432fed17
 XChem data: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/D68EV3CPROA
 
+Presentation: [ASAP-CompChem-elaborations-MF.pptx[ASAP-CompChem-elaborations-MF.pptx]
+
 ## Notes on target
 Protein is a monomer in native state but there is a crystallographic dimer in the structure.
 The N-terminal Met of Chain A sits in the active site of Chain B (PDB:8CNX)
