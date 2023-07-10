@@ -8,6 +8,8 @@ XChem data: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/D68EV3C
 
 Presentation: [ASAP-CompChem-elaborations-MF.pptx[ASAP-CompChem-elaborations-MF.pptx]
 
+> :warning: This repo is basically abandoned and newer data was never uploaded
+
 ## Notes on target
 Protein is a monomer in native state but there is a crystallographic dimer in the structure.
 The N-terminal Met of Chain A sits in the active site of Chain B (PDB:8CNX)
