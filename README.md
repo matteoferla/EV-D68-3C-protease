@@ -8,5 +8,12 @@ XChem data: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/D68EV3C
 
 Three rounds were performed of the first round.
 First round in old folder —includes pptx, pse etc etc.
-Iter3 is a terse datadump of the third round.
+Iter3 is a terse datadump of the third round. Raw data file:
 
+* _mergers are the merged compounds (panda pickled dataframes)
+* _analogues are the analogues from catalogue via NextMove SmallWorld (http://sw.docking.org)
+* _placements are the placed (~ docked) analogues
+
+In these the column `outcome` when acceptable is used.
+
+![pipeline](pipeline-01.png)
